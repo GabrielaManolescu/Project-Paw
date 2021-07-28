@@ -1,0 +1,8 @@
+C:\Users\manol\Source\Repos\ProiectPAW-ManolescuGabrielaVeronica\Control\bin\Debug\Control.dll
+C:\Users\manol\Source\Repos\ProiectPAW-ManolescuGabrielaVeronica\Control\bin\Debug\Control.pdb
+C:\Users\manol\Source\Repos\ProiectPAW-ManolescuGabrielaVeronica\Control\obj\Debug\Control.CalculatorUC.resources
+C:\Users\manol\Source\Repos\ProiectPAW-ManolescuGabrielaVeronica\Control\obj\Debug\Control.csproj.GenerateResource.cache
+C:\Users\manol\Source\Repos\ProiectPAW-ManolescuGabrielaVeronica\Control\obj\Debug\Control.csproj.CoreCompileInputs.cache
+C:\Users\manol\Source\Repos\ProiectPAW-ManolescuGabrielaVeronica\Control\obj\Debug\Control.dll
+C:\Users\manol\Source\Repos\ProiectPAW-ManolescuGabrielaVeronica\Control\obj\Debug\Control.pdb
+C:\Users\manol\Source\Repos\ProiectPAW-ManolescuGabrielaVeronica\Control\obj\Debug\Control.Properties.Resources.resources

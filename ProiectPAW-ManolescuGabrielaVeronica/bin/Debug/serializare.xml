@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfProiecte xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Proiecte>
+    <ClientId>0</ClientId>
+    <ProiectId>0</ProiectId>
+    <NrProiect>11</NrProiect>
+    <NumeProiect>Proiect1</NumeProiect>
+    <Id>16</Id>
+    <dataInceputProiect>2021-05-31T09:55:40</dataInceputProiect>
+    <dataSfarsitProiect>2021-06-04T09:55:40</dataSfarsitProiect>
+    <CostProiect>2000</CostProiect>
+  </Proiecte>
+  <Proiecte>
+    <ClientId>0</ClientId>
+    <ProiectId>0</ProiectId>
+    <NrProiect>12</NrProiect>
+    <NumeProiect>Proiect2</NumeProiect>
+    <Id>17</Id>
+    <dataInceputProiect>2021-06-01T09:59:30</dataInceputProiect>
+    <dataSfarsitProiect>2021-06-03T09:59:30</dataSfarsitProiect>
+    <CostProiect>2399</CostProiect>
+  </Proiecte>
+  <Proiecte>
+    <ClientId>0</ClientId>
+    <ProiectId>0</ProiectId>
+    <NrProiect>23</NrProiect>
+    <NumeProiect>Proiect3</NumeProiect>
+    <Id>18</Id>
+    <dataInceputProiect>2021-05-31T10:05:26</dataInceputProiect>
+    <dataSfarsitProiect>2021-06-04T10:05:26</dataSfarsitProiect>
+    <CostProiect>5000</CostProiect>
+  </Proiecte>
+</ArrayOfProiecte>
